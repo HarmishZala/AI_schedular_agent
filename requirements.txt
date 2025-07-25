@@ -1,0 +1,25 @@
+langchain
+langchain-community
+langchain-experimental
+fastapi
+python-dotenv
+streamlit
+uvicorn
+pydantic
+httpx
+requests
+langchain_google_community
+langchain_tavily
+langchain_groq
+langchain_openai
+langgraph
+langchain-google-community[places]
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+fastapi
+uvicorn[standard] 
+python-dateutil 
+
+
+-e .
